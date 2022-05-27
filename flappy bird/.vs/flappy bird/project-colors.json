@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "616d190c-6f14-4f43-a0e8-74eee628e636": {
+      "ProjectGuid": "616d190c-6f14-4f43-a0e8-74eee628e636",
+      "DisplayName": "flappy bird",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
